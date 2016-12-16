@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='bdrillard.github.io' rel='self' type='application/rss+xml'/>
+<title>
+bdrillard
+</title>
+<link>
+bdrillard.github.io
+</link>
+<description>
+
+</description>
+<lastBuildDate>
+Fri, 16 Dec 2016 14:52:56 -0600
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+bdrillard.github.io/posts-output/2016-01-07-docs/
+</guid>
+<link>
+bdrillard.github.io/posts-output/2016-01-07-docs/
+</link>
+<title>
+The Peoples of Rhenovaar
+</title>
+<description>
+&lt;h2&gt;&lt;a name=&quot;the&amp;#95;peoples&amp;#95;of&amp;#95;rhenovaar&quot;&gt;&lt;/a&gt;The Peoples of Rhenovaar&lt;/h2&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Thu, 07 Jan 2016 00:00:00 -0600
+</pubDate>
+</item>
+</channel>
+</rss>
